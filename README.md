@@ -62,10 +62,8 @@ I help businesses understand their data and make smarter decisions through clear
 ### 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/omarmahmoudkamel/)  
-- [Email](omarrmahmuudd@gmail.com) 
-
----
-
-### 📊 GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+- [Email](omarrmahmuudd@gmail.com)
+- [khamsat](https://khamsat.com/user/omar_mahmud)
+- [mostaqel](https://mostaql.com/u/omar_mahmud)
+- [kafiil](https://kafiil.com/u/omar_mahmuud)
+- [nafezly](https://nafezly.com/u/omar_mahmod)
