@@ -22,6 +22,7 @@ I help businesses understand their data and make smarter decisions through clear
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![Profile Views](https://komarev.com/ghpvc/?username=omarrmahmuudd&label=Profile%20Views&color=blue&style=flat)
 ---
 
 ### 🚀 Featured Projects
