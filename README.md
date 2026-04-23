@@ -9,8 +9,6 @@ I turn raw data into clear insights, interactive dashboards, and business decisi
 I am a Data Analyst specialized in data cleaning, analysis, and visualization.  
 I help businesses understand their data and make smarter decisions through clear reports and interactive dashboards.
 
-I focus on delivering high-quality work that is accurate, clean, and easy to understand.
-
 ---
 
 ### 💼 Services I Offer
@@ -24,33 +22,31 @@ I focus on delivering high-quality work that is accurate, clean, and easy to und
 
 ### 🛠️ Tools & Technologies
 
-- Excel  
-- Power BI  
-- SQL  
-- Python (Pandas, NumPy, Matplotlib)  
-- Git & GitHub  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
 ### 🚀 Featured Projects
 
 - **Netflix Dashboard (Power BI)**  
-  Built an interactive dashboard to analyze content distribution, ratings, and categories.
-
 - **Sales Analysis Dashboard**  
-  Analyzed sales performance and created visuals to support business decisions.
-
 - **Data Cleaning Projects**  
-  Cleaned and transformed raw datasets into structured and analysis-ready data.
 
 ---
 
 ### 📈 Why Choose Me?
 
-- Strong attention to detail  
-- Clean and professional dashboards  
-- Clear communication  
-- Fast delivery & reliable work  
+- Attention to detail  
+- Clean dashboards  
+- Clear insights  
+- Reliable delivery  
 
 ---
 
