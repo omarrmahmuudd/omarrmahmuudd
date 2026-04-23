@@ -27,7 +27,7 @@ I help businesses understand their data and make smarter decisions through clear
 ### 🚀 Featured Projects
 
 #### 📊 Netflix Dashboard
-![Netflix Dashboard]("D:\cls\projects\Screenshot 2026-04-13 182150.png")
+![Netflix Dashboard]("netflix-dashboard.D:\cls\projects\Screenshot 2026-04-13 182150.png")
 
 - Analyzed content distribution by category  
 - Built interactive visuals for insights  
