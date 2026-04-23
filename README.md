@@ -61,8 +61,8 @@ I help businesses understand their data and make smarter decisions through clear
 
 ### 🌐 Let's Connect
 
-- LinkedIn: [](https://www.linkedin.com/in/omarmahmoudkamel/)  
-- Email: [](omarrmahmuudd@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/omarmahmoudkamel/)  
+- [Email](omarrmahmuudd@gmail.com) 
 
 ---
 
