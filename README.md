@@ -64,7 +64,7 @@ I help businesses understand their data and make smarter decisions through clear
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect:
 
        
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ttps://www.linkedin.com/in/omarmahmoudkamel/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarrmahmuudd@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omar1mahmoud2/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omar.mahmoud.137407)
