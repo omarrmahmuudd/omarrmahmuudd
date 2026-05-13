@@ -60,10 +60,6 @@ I help businesses understand their data and make smarter decisions through clear
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarrmahmuudd&show_icons=true&theme=tokyonight)
-
----
-
 ### 🌐 Let's Connect:
 
        
